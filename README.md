@@ -50,7 +50,7 @@ Soy-wilson2905@github
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://example.com)
 [<img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" width="50" height="50">](https://example.com)
-[![My Skills](https://skillicons.dev/icons?i=html,css,md)](https://example.com)
+
 
 ---
 
@@ -59,7 +59,7 @@ Soy-wilson2905@github
 [<img alt="Pandas" src="https://static-00.iconduck.com/assets.00/pandas-icon-322x512-mc7j2kfi.png" width="50" height="50">](https://example.com)
 [<img alt="Numpy" src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-476x512-106d391z.png" width="50" height="50">](https://example.com)
 [![My Skills](https://skillicons.dev/icons?i=fastapi,sklearn)](https://example.com)
-[![My Skills](https://skillicons.dev/icons?i=django)](https://example.com)
+
 
 <hr>
 
@@ -68,7 +68,7 @@ Soy-wilson2905@github
 [<img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" width="50" height="50">](https://example.com)
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,gcp)](https://example.com)
 
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://example.com)
+
 
 <hr>
 
